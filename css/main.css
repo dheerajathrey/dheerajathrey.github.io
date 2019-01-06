@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+    padding: 0;
+    border: 0;
+    background-image: url("./../img/background_img_lefthalf.jpg");
+    background-color: #cccccc;
+}
+
+.img1{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	height: 100%;
+	width: 50%;
+}
